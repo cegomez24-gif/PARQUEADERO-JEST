@@ -5,14 +5,14 @@ Taller final de Calidad del desarrollo de software - CIAF
 ## Integrante
 | N° de lista | Nombre Completo |
 |---|---|
-| 8 | [Cristian Estiven Gomez Cardenas] |
+| 8 | Cristian Estiven Gomez Cardenas |
 
 - **N:** 8
 - **tasaEquipo:** (N mod 5) + 5 = 8%
 
 ## Negocio elegido
 Parqueadero que cobra $3.000 por hora. Si el servicio es nocturno,
-se aplica un recargo igual a la tasaEquipo ([8% o 5%]) sobre el valor base.
+se aplica un recargo igual a la tasaEquipo (8%) sobre el valor base.
 
 ## Casos de prueba
 | # | Tipo | Entrada | Salida esperada |
